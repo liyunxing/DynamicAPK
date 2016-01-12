@@ -3,7 +3,10 @@
 
 
 
-这是携程动态加载的方案
+这是携程动态加载的方案，主要内容是修改gradle，mInstrumentation，aapt工具等；其他详细内容请见
+
+携程Android App插件化和动态加载实践
+http://www.tuicool.com/articles/eQZJju7
 
 
 
