@@ -1,6 +1,13 @@
 
 ## Introduction
+
+
+
 这是携程动态加载的方案
+
+
+
+
 What is DynamicAPK?
 
 DynamicAPK is a solution that contains framework, tool and configuration to implement multi apk/dex dynamic loading. It can help reorganize Android project configuration and development model to achieve sub-projects parallel development (in the form of android studio module), while supporting hot fix (repairing online bug), on-demand loading seldom-used modules. All dynamically loaded modules not only contain code but also contain resources if you need.
